@@ -1,0 +1,17 @@
+{
+  "name": "abhinav-first-package",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0",
+    "build": "echo 'Building package...' && exit 0",
+    "lint": "echo 'Linting...' && exit 0"
+  },
+  "publishConfig": {
+  "registry": "https://registry.npmjs.org/"
+},
+  "author": "abhinav",
+  "license": "ISC",
+  "dependencies": {}
+}
